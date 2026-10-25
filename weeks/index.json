@@ -1,1 +1,7 @@
-
+{
+  "schema_version": 1,
+  "weeks": [
+    {"week_id": "2026-10-19", "file": "weeks/2026-10-19.json", "date_from": "2026-10-19", "date_to": "2026-10-25"},
+    {"week_id": "2026-10-26", "file": "weeks/2026-10-26.json", "date_from": "2026-10-26", "date_to": "2026-11-01"}
+  ]
+}
